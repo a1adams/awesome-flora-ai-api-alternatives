@@ -1,7 +1,7 @@
 {
   "keyword": "flora ai api",
   "title": "Flora AI API: Techniques, MCP and workflow alternatives",
-  "lastChecked": "2026-10-19",
+  "lastChecked": "2026-10-26",
   "capabilityChecks": [
     {
       "key": "restApi",
@@ -152,11 +152,11 @@
         "firstPartyMcp": null
       },
       "live": {
-        "stars": 139230,
-        "lastPush": "2026-10-19T10:54:06Z",
+        "stars": 143134,
+        "lastPush": "2026-10-26T12:52:32Z",
         "latestRelease": "v0.42.1",
         "latestReleaseDate": "2026-10-19",
-        "checkedAt": "2026-10-19"
+        "checkedAt": "2026-10-26"
       }
     },
     {
